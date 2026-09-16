@@ -140,6 +140,7 @@ Please help me revise and modify the following prompt for better clarity and pre
 | [Dia](https://www.diabrowser.com/) | Currently in beta and available free of charge; account required. | The AI Browser Where You Can Chat with Your Tabs. |
 | [Comet Browser](https://www.perplexity.ai/comet) | Both free and paid options; guest access allowed. | The browser that works for you. |
 | [Perplexity](https://www.perplexity.ai/) | Both free and paid options; guest access allowed. | AI-powered answer engine that provides accurate, trusted, and real-time answers to any question. |
+| [AI Tools Radar](https://aitoolsradar.com) | Free; guest access allowed. | AI tools directory and editorial platform for discovering, comparing, and tracking practical AI products across productivity, research, creative, and developer workflows. |
 | [Google NotebookLM](https://notebooklm.google/) | Both free and paid options; Google account required. | Your Personalized AI Research Assistant, the ultimate tool for understanding the information that matters most to you, built with Gemini 2.0 |
 | [Remio](https://remio.ai/) | Freemium; desktop app required. | Local-first AI memory and knowledge base for students and researchers. It parses files, webpages, recordings, emails, and notes into local indexes and vectors so users can retrieve focused context without repeatedly scanning folders or loading whole documents into prompts. |
 | [PagePeek](https://pagepeek.ai/) | Both free and paid options; account required. | All-in-One office suite powered by AI. |
